@@ -1,0 +1,41 @@
+{
+  "packages": [
+    {
+      "page_url": "https://www.booking.com/index.html?label=gen173nr-1FCAMYBShDONsDSDNYBGgviAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuAL-1-2-BsACAdICJGYxZGNkMDBhLTQ0MGYtNGU2Yy05YTVjLWZjODUwNjY2MjgwNtgCBeACAQ&sid=290b1d9d35cd6d82ae7654a7760448f8&click_from_logo=1",
+      "hotel_name": "Steigenberger Hotel El Tahrir Cairo",
+      "hotel_description": "Among Cairo hotels, Steigenberger El Tahrir secures a spectacular location in El Tahrir Square, overlooking the Egyptian museum, minutes away from Khan El Khalili Bazar, and in close proximity to...",
+      "hotel_address": "Downtown Cairo, Cairo",
+      "location": "Cairo",
+      "rating": 9.3,
+      "reviews": 12283,
+      "price": 114.332,
+      "currency": "USD",
+      "included_meals": "Not specified",
+      "excluded_meals": "Not specified",
+      "facilities": "bar, room service, restaurant, terrace",
+      "product_specs": [
+        {
+          "specification_name": "Location",
+          "specification_value": "El Tahrir Square, overlooking the Egyptian museum"
+        },
+        {
+          "specification_name": "Proximity",
+          "specification_value": "Minutes away from Khan El Khalili Bazar"
+        },
+        {
+          "specification_name": "Amenities",
+          "specification_value": "bar, room service, restaurant, terrace"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Spectacular location in El Tahrir Square",
+        "Close proximity to major attractions",
+        "High review score of 9.3",
+        "The hotel rooftop has a great view of the pyramids, and we enjoyed having a delicious dinner while watching the light show.",
+        "One of our rooms also had a view!",
+        "We really appreciated all the cold free drinking water too."
+      ]
+    }
+  ]
+}
